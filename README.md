@@ -1,5 +1,6 @@
 # Music-Visualizer
 A Music Visualizer made using python
+
 A project to visualize affects while listening to music.
 
 Made Using two python libraries Pygame And Librosa
